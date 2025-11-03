@@ -131,7 +131,7 @@ yandex_site_verification :
 #   username               :
 #   app_id                 :
 #   publisher              :
-linkedin         : Zuomin Yang
+linkedin         : "https://www.linkedin.com/in/zuomin-yang-423ab4304/"
 og_image                 :  # Social media default site image
 og_description           :  # Social media default site image description
 # For specifying social profiles
