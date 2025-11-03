@@ -29,13 +29,13 @@ author:
   bio              : "PhD in Electrical Engineering, University of Malaya. Research in Computer Vision, Spiking Neural Networks, and Autonomous Driving."
   location         : "Kuala Lumpur, Malaysia"
   employer         : "PhD candidate, University of Malaya"
-  uri              : # URL "https://www.linkedin.com/in/zuomin-yang-423ab4304/"
+  uri              : "https://www.linkedin.com/in/zuomin-yang-423ab4304/"
   email            : "zmy202006@gmail.com" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=hswe-2IAAAAJ&hl=en&oi=ao"
   orcid            : "https://orcid.org/0000-0003-4776-4887"
-
+  linkedin         : "https://www.linkedin.com/in/zuomin-yang-423ab4304/"
   # Repositories and software development
   # bitbucket        : # Username - Update with your username on the site
   # codepen          : # Username
