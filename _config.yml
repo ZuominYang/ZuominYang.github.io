@@ -23,7 +23,7 @@ repository               : "zuominyang/zuominyang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "YANG ZUOMIN.jpg"
+  avatar           : "ZUOMIN.jpg"
   name             : "Dr. Zuomin Yang"
   pronouns         : # example: "he"  
   bio              : "PhD in Electrical Engineering, University of Malaya. Research in Computer Vision, Spiking Neural Networks, and Autonomous Driving."
