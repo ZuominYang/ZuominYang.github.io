@@ -13,9 +13,9 @@ title                    : "Zuomin Yang / Academic Homepage"
 title_separator          : "-"
 name                     : &name "Zuomin Yang"
 description              : &description "Dr. Zuomin Yang's academic homepage and research portfolio"
-url                      : https://zuominyang.github.io/Zuomin-Yang/
+url                      : https://zuominyang.github.io/
 baseurl                  : ""
-repository               : "zuominyang/zuominyang.github.io/Zuomin-Yang/"
+repository               : "zuominyang/zuominyang.github.io/"
 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
