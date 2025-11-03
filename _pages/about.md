@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing a Ph.D. degree in Electrical Engineering at the Department of Electrical Engineering, Faculty of Engineering, Universiti Malaya, Malaysia. My research interests include neural networks, computer vision, continual learning, and intelligent systems.
+I received a bachelor's degree in Mechatronics Engineering from Shandong University in China in 2016 and a master's degree in Mechanical Engineering (Robotics Technology) from Qingdao University of Science and Technology in 2020. I am currently pursuing a Ph.D. degree in Electrical Engineering in the Department of Electrical Engineering, Faculty of Engineering, University of Malaya, Malaysia. My research interests include Neural Networks, Computer Vision, Continual Learning, Reinforcement Learning, Robot Learning and Intelligent Systems.
+
 
 For more info
 ------
