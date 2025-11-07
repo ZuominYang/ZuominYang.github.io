@@ -1,5 +1,5 @@
 ---
-title: "Exploring the Synegry Between Academic and Industry for Sustainable Solutions"
+title: "Exploring the Synergy Between Academic and Industry for Sustainable Solutions"
 date: 2023-11-24
 #permalink: /blog/aiact-2021/
 image: zuominyang.github.io/images/2023-11-24.jpg
