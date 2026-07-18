@@ -1,6 +1,6 @@
 ---
 title: "Congratulations to the Exchange Student from Ehime University, Japan"
-date: 2025-09-23
+date: 2025-09-30
 ---
 
 <p align="center">
